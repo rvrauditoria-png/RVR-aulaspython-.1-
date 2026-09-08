@@ -1,0 +1,17 @@
+{
+    "id": 1001,
+    "nome": "Ana Claudia Souza Cunha",
+    "idade": 36,
+    "email": "ana.cunha1@senacsp.edu.br",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "profissao": "Docente",
+    "trabalha": true,
+    "LinkedIn": "https://www.linkedin.com/in/kaucunha/",
+    "disciplinas": [
+        "Python I",
+        "Python II",
+        "Lógica de Programação"
+    ],
+    "redesocial": "@kau.tech"
+}
